@@ -1,0 +1,11 @@
+MIDlet-Name: BlinkingLED
+MIDlet-Version: 1.0
+MIDlet-Vendor: PiJava Tutorials
+MIDlet-1: BlinkingLED,,BlinkingLED
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
+MIDlet-Permission-1: jdk.dio.DeviceMgmtPermission "*:*" "open"
+MIDlet-Permission-2: jdk.dio.gpio.GPIOPinPermission "*:*"
+
+
+
