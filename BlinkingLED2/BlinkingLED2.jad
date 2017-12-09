@@ -1,0 +1,7 @@
+
+MIDlet-Name: BlinkingLED
+MIDlet-Version: 1.0
+MIDlet-Vendor: PiJava Tutorials
+MIDlet-1: BlinkingLED,,BlinkingLED
+MIDlet-Jar-Size: 2042
+MIDlet-Jar-URL: BlinkingLED.jar

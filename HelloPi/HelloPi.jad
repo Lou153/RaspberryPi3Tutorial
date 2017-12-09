@@ -1,0 +1,6 @@
+MIDlet-Name: HelloPi
+MIDlet-Version: 1.0
+MIDlet-Vendor: PiJava Tutorials
+MIDlet-1: HelloPi,,HelloPi
+MIDlet-Jar-Size: 896 
+MIDlet-Jar-URL: HelloPi.jar

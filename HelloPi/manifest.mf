@@ -1,0 +1,7 @@
+MIDlet-Name: HelloPi
+MIDlet-Version: 1.0
+MIDlet-Vendor: PiJava Tutorials
+MIDlet-1: HelloPi,,HelloPi
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
+
